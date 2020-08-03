@@ -1,0 +1,72 @@
+{
+  "channels": [
+    {
+      "url": "UCbpMy0Fg74eXXkvxJrtEn3w",
+      "title": "Bon Appétit",
+      "id": 1
+    },
+    {
+      "url": "UC92stP3p40WmY-6-8X14zbQ",
+      "title": "Mohamad Hindi",
+      "id": 2
+    },
+    {
+      "url": "UCpSgg_ECBj25s9moCDfSTsA",
+      "title": "Jamie Oliver",
+      "id": 3
+    },
+    {
+      "url": "UCIEv3lZ_tNXHzL3ox-_uUGQ",
+      "title": "Gordon Ramsay",
+      "id": 4
+    },
+    {
+      "url": "UCfSPnAlDUTiIOAvNOI-a4yQ",
+      "title": "Panelinha",
+      "id": 5
+    },
+    {
+      "title": "Epicurious",
+      "url": "UCcjhYlL1WRBjKaJsMH_h7Lg",
+      "id": 6
+    }
+  ],
+  "videos": [
+    {
+      "title": "A MELHOR PANQUECA DE CARNE MOÍDA",
+      "channel": "Mohamad Hindi",
+      "url": "aYkIfZ0QRh4",
+      "id": 1
+    },
+    {
+      "title": "Molly Makes BA's Best Bucatini Carbonara | From the Test Kitchen",
+      "channel": "Bon Appétit",
+      "url": "2JYub2JxoDo",
+      "id": 2
+    },
+    {
+      "title": "O TÃO PEDIDO RISOTO DE ALHO PORÓ",
+      "channel": "Elisa Fernandes",
+      "url": "rMR91jXg5y0",
+      "id": 3
+    },
+    {
+      "title": "How To Make Perfect Scrambled Eggs",
+      "channel": "Jamie Oliver",
+      "url": "s9r-CxnCXkg",
+      "id": 4
+    },
+    {
+      "title": "Pastry Chef Attempts to Make Gourmet Ferrero Rocher | Gourmet Makes",
+      "channel": "Bon Appétit",
+      "url": "XY-hOqcPGCY",
+      "id": 5
+    },
+    {
+      "title": "How To Chop Every Vegetable | Method Mastery",
+      "channel": "Epicurious",
+      "url": "p28wMbunulQ",
+      "id": 6
+    }
+  ]
+}
